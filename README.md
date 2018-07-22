@@ -1,5 +1,6 @@
 # Computer_Vision
 
+In sample codes different implementations are covered form below written topics.
 
 1. Projective Geometry in 2D: a. The Projective Plane, b. Projective Transformations
 2. Projective Geometry in 3D
